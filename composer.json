@@ -1,0 +1,7 @@
+{
+	"name": "greeny/maillibrary",
+	"description": "Abandoned, use php-mail-client/client.",
+	"require": {
+		"php-mail-client/client": "dev-master"
+	}
+}
